@@ -283,7 +283,7 @@ autoplay = "move"
 [node name="Enemy" type="Node" parent="."]
 
 [node name="Slime" parent="Enemy" instance=ExtResource("6_p57ef")]
-position = Vector2(241, 65)
+position = Vector2(146, -17)
 
 [node name="Slime2" parent="Enemy" instance=ExtResource("6_p57ef")]
-position = Vector2(705, 65)
+position = Vector2(592, 64)
